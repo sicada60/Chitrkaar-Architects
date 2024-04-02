@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Om Sai Residency",
+    "detail": "Bhubaneshwar",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Cuttack Railway Station",
+    "detail": "Cuttack",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Odisa University Of Agriculture & Technology",
+    "detail": "Bhubaneshwar",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Hotel Orchid Flame",
+    "detail": "Keonjhar",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maa Tarini Bastralaya",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "ABC",
+    "detail": "xyz",
+    "image": "./r3.png"
+  }
+]
